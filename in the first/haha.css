@@ -1,0 +1,82 @@
+.navbar{
+    background-color: rgb(208, 177, 238);
+    border-radius: 20px;
+    height: 107px;
+}
+.flex{
+    padding: 7px;
+    display: flex;
+    list-style: none;
+    justify-content: right;
+}
+.a{
+    text-decoration: none;
+    margin: 19px 12px;
+    /* color: white; */
+    color: rgb(0, 0, 0);
+    text-align: right;
+    padding: 2px 5px;
+    position: relative;
+    left: 153px;
+    top: -74px;
+    padding: 3px 9px;
+}
+.hover :hover{
+    /* background-color: white; */
+    /* color: rgb(208, 177, 238); */
+    background-color: rgb(208, 177, 238);
+    color: white;
+    border-radius: 12px;
+    
+}
+.hover{
+    text-align: right;
+}
+
+.img{
+    /* margin: 0px 0px 700px 943px; */
+    position: relative;
+    bottom: 132px;
+    border-radius: 44px;
+    border: 2px solid black;
+    bottom: 140px;
+    left: 961px;
+}
+.h1{
+    margin-top: 79px;
+}
+.sector-1{
+    background-color: rgb(208, 177, 238);
+    height: 116px;
+    border-radius: 73px;
+}
+.sector-1 .h1,.p{
+    color: white;
+    position: relative;
+    left: 36px;
+    top: 6px;
+}
+body{
+    margin: 0px 84px
+}
+.logo{
+    width: 90px;
+    height: 90px;
+    position: relative;
+    top: 8px;
+}
+.btn{
+    position: absolute;
+    right: 148px;
+    top: 38px;
+    font-size: 15px;
+    background-color: rgb(208, 177, 238);
+    border-radius: 22px;
+    padding: 8px;
+    color: white;
+    cursor: pointer;
+}
+.btn:hover{
+    background-color: white;
+    color: rgb(208, 177, 238);
+}
